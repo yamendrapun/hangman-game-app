@@ -1,4 +1,4 @@
-# Hanman Game
+# hangman-game-app
 A simple hangman game application build using React.
 
 # Installation
